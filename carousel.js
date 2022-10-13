@@ -6,7 +6,7 @@ class Carousel {
       {
         id: "1",
         reviewer_name: "Jenny Wilson",
-        src: "/assests/review3.svg",
+        src: "/review3.svg",
         review:
           "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et 😍. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim ❤️. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi 💓.",
         star : '/assests/star.svg'
@@ -14,7 +14,7 @@ class Carousel {
       {
         id: "2",
         reviewer_name: "Jenny Wilson",
-        src: "/assests/review1.svg",
+        src: "/review1.svg",
         review:
           "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et 😍. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim ❤️. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi 💓.",
           star : '/assests/star.svg'
@@ -22,7 +22,7 @@ class Carousel {
       {
         id: "3",
         reviewer_name: "Jenny Wilson",
-        src: "/assests/review2.svg",
+        src: "/review2.svg",
         review:
           "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et 😍. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim ❤️. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi 💓.",
           star : '/assests/star.svg'
