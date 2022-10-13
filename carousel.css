@@ -178,7 +178,7 @@ body {
   transform: scale(1.3);
 }
 .carousel-control-previous {
-  background-image: url(/assests/Group_45.svg);
+  background-image: url(/Group_45.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 40px;
@@ -187,7 +187,7 @@ body {
   border: 2px solid #ffe501;
 }
 .carousel-control-next {
-  background-image: url(/assests/Group_29.svg);
+  background-image: url(/Group_29.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 40px;
