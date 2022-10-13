@@ -9,7 +9,7 @@ class Carousel {
         src: "/review3.svg",
         review:
           "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et 😍. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim ❤️. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi 💓.",
-        star : '/assests/star.svg'
+        star : '/star.svg'
       },
       {
         id: "2",
@@ -17,7 +17,7 @@ class Carousel {
         src: "/review1.svg",
         review:
           "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et 😍. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim ❤️. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi 💓.",
-          star : '/assests/star.svg'
+          star : '/star.svg'
       },
       {
         id: "3",
@@ -25,7 +25,7 @@ class Carousel {
         src: "/review2.svg",
         review:
           "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et 😍. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim ❤️. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi 💓.",
-          star : '/assests/star.svg'
+          star : '/star.svg'
       },
     ];
     this.carouselInView = [1, 2, 3];
