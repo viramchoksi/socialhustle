@@ -3,29 +3,29 @@ class Carousel {
     this.el = el;
     this.carouselOptions = ["previous", "next"];
     this.carouselData = [
-      {
+       {
         id: "1",
-        reviewer_name: "Jenny Wilson",
-        src: "/review3.svg",
+        reviewer_name: "Colbie D.",
+        src: "/Colbie.svg",
         review:
-          "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et 😍. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim ❤️. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi 💓.",
-        star : '/star.svg'
+          "I love the creativity of Nukem Caps! They have really awesome graphics and my hat felt really high quality. I definitely will be a returning customer.",
+        star: "/star.svg",
       },
       {
         id: "2",
-        reviewer_name: "Jenny Wilson",
-        src: "/review1.svg",
+        reviewer_name: "Daniel S.",
+        src: "/Daniel.svg",
         review:
-          "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et 😍. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim ❤️. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi 💓.",
-          star : '/star.svg'
+          "This is my new favorite brand. As a hat enthusiast I love that they have so many designs to choose from. Especially the adult humor! Thank you Nukem Caps!",
+        star: "/star.svg",
       },
       {
         id: "3",
-        reviewer_name: "Jenny Wilson",
-        src: "/review2.svg",
+        reviewer_name: "Bobby C.",
+        src: "/Bobby.svg",
         review:
-          "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et 😍. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim ❤️. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi 💓.",
-          star : '/star.svg'
+          "These hats are perfect for going out with the boys. The hilarious designs are perfect conversation starters. I have bought 3 so far and will definitely be buying more.",
+        star: "/star.svg",
       },
     ];
     this.carouselInView = [1, 2, 3];
